@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: api_catastro
+Version: 0.1
+Summary: Obtener los datos del catastro para una referencia catastral usando su API oficial.
+Author: Luis Cerdeño Mota
+Author-email: luiscerdenomota@gmail.com
+Requires-Dist: pandas
+Requires-Dist: requests
+Requires-Dist: tqdm
+Requires-Dist: openpyxl
